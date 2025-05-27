@@ -1,0 +1,13 @@
+
+
+ctrl + b: hide or open side bar
+ctrl + `~: hide or open terminal
+ctrl + p: search files
+ctrl + up or down arrow: scroll with keyboard
+ctrl + \: open split window
+ctrl + w: close window
+ctrl + enter: go to next line even if we're in the middle of a line
+shift + alt + down arrow: copy above line
+ctrl + backspace: delete a word
+ctrl + delete: to delete word ahead of cursor
+
